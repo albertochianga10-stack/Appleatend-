@@ -1,0 +1,7 @@
+{
+  "name": "Applemar Business Suite",
+  "description": "A high-end enterprise control system for WhatsApp automation and AI-driven customer service for the Applemar brand.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
